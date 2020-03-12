@@ -1,3 +1,5 @@
+# Worked on by Tony Milone, Rupi Rajput and Humberto Hernandez
+
 # Express Boilerplate!
 
 This is a boilerplate project used for starting new projects!
